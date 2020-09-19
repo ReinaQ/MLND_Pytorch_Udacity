@@ -31,21 +31,25 @@ Recommended:
 
 ## Project Overview
 ### Finding charity donors
-First chapter project was about applying **supervised learning techniques**, which helps CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause.
+
+> First chapter project was about applying **supervised learning techniques**, which helps CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause.
+
 It includes following steps:
 * Evaluated the performance of different supervised learning algorithms (AdaBoost, Random Forest, and Logistic Regression)
 * Optimized the selected model for best identifying potential donors
 
 ### Flower species image classifier
 
-The goal of this project is to define and train **a neural network in PyTorch** that learns to classify images; going from image data exploration to network training and evaluation
+> The goal of this project is to define and train **a neural network in PyTorch** that learns to classify images; going from image data exploration to network training and evaluation
+
 It includes following steps:
 - Implemented the Convolutional neural network (CNN) for image classification with PyTorch
 - Built the command line application for serving the model
 
 ### Identify Customer Segments with Arvato
 
-The goal of the project in this chapter is to study a real dataset of customers for a company, and apply several **unsupervised learning techniques** in order to segment customers into similar groups and extract information that may be used for marketing or product improvement.
+> The goal of the project in this chapter is to study a real dataset of customers for a company, and apply several **unsupervised learning techniques** in order to segment customers into similar groups and extract information that may be used for marketing or product improvement.
+
 It includes following steps:
 * Conducted data wrangling, and data dimensionality reduction with principal component analysis(PCA)
 * Identified potential customers using clustering techniques
