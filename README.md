@@ -1,6 +1,6 @@
 # [Udacity Intro to Machine Learning with PyTorch Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
->  - Use Python and SQL to access and analyze data from several different data sources.   
+- Use Python and SQL to access and analyze data from several different data sources.   
 - Build predictive models using a variety of unsupervised and supervised machine learning techniques.   
 - Perform feature engineering to improve the performance of machine learning models.   
 - Optimize, tune, and improve algorithms according to specific metrics like accuracy and speed.   
